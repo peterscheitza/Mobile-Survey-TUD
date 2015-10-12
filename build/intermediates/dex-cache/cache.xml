@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\peter_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\peter_000\AndroidStudioProjects\MobileSurveysTUD\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-61604a91c1427f6e4ecde0aeb0de87ac2a7780dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\peter_000\AndroidStudioProjects\MobileSurveysTUD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\peter_000\AndroidStudioProjects\MobileSurveysTUD\app\build\intermediates\pre-dexed\debug\classes-eec8a6d3b075c3c09d9c0cdd2d3a2b7cd60957d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\peter_000\AndroidStudioProjects\MobileSurveysTUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\peter_000\AndroidStudioProjects\MobileSurveysTUD\app\build\intermediates\pre-dexed\debug\classes-2f3c71cd1f5bff8cffd3a9a4dfc6898809fb816d.jar" />
+    </item>
+    <item
+        jar="C:\Users\peter_000\AndroidStudioProjects\Mobile Survey TUD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\peter_000\AndroidStudioProjects\Mobile Survey TUD\app\build\intermediates\pre-dexed\debug\classes-0fac97b5d41b066d05578a7209d622cf997cfe66.jar" />
+    </item>
+    <item
+        jar="C:\Users\peter_000\AndroidStudioProjects\Mobile Survey TUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\peter_000\AndroidStudioProjects\Mobile Survey TUD\app\build\intermediates\pre-dexed\debug\classes-45569ce91991a6baf7479516780e28168bc508ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\peter_000\AndroidStudioProjects\MobileSurveysTUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\peter_000\AndroidStudioProjects\MobileSurveysTUD\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-22cde205dbf2597aa41af39db4fc85bf8d179a58.jar" />
+    </item>
+    <item
+        jar="C:\Users\peter_000\AndroidStudioProjects\Mobile Survey TUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\peter_000\AndroidStudioProjects\Mobile Survey TUD\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-fd78dc67ccecd85d23e3698d1403caf4edf25f9a.jar" />
+    </item>
+
+</items>
