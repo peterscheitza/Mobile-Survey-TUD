@@ -47,7 +47,7 @@ public class GlobalSettings {
      * tatsächlichen Anzeigen des Dialoges führen (Siehe Kapitel „Anzeigen des Dialoges“). Diese Variable enthält standardmäßig
      * den Wert 20. Das heißt, im Schnitt wird bei jeder fünften Interaktion zur Umfrage aufgefordert.
      */
-    final public static int gPercentageToShow = 100; //between 1 and 100
+    final public static int gPercentageToShow = 20; //between 1 and 100
 
     /**
      * gSurveyURL und gGetURLWithID
