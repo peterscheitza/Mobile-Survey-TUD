@@ -47,7 +47,7 @@ import is.fb01.tud.university.mobilesurveystud.BackEnd.Service.SensorService.Acc
 import is.fb01.tud.university.mobilesurveystud.BackEnd.Service.SensorService.GyroscopeService;
 
 /**
- * Created by peter_000 on 10.05.2015.
+ * Created by peter_000 on 10.05.2015. asd
  */
 
 
