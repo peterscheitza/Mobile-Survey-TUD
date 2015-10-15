@@ -80,6 +80,8 @@ public class DialogActivity extends Activity {
                 intent.setAction(MSG);
                 mBroadcaster.sendBroadcast(intent);
 
+                removeHandler();
+
                 finish();
             }
         });
@@ -90,6 +92,9 @@ public class DialogActivity extends Activity {
         activityExistButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                removeHandler();
+
                 finish();
             }
         });
@@ -153,5 +158,17 @@ public class DialogActivity extends Activity {
         NetworkInfo netInfo = cm.getActiveNetworkInfo();
 
        return (netInfo != null && netInfo.isConnected());
+    }
+
+    private void removeHandler(){
+        try {
+            mEventHandlerRem.removeCallbacksAndMessages(null);
+        }
+        catch (NullPointerException e){}
+
+        try {
+            mEventHandlerDis.removeCallbacksAndMessages(null);
+        }
+        catch (NullPointerException e){}
     }
 }
